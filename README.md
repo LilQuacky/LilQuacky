@@ -1,7 +1,12 @@
 <img align="center" alt="Banner" width="1080" height="360" src="https://images-cdn.exchange.art/non_live_data/creator_data/udk4euUCvSgLdUpYqcOz8RSkU9q2/brands/Duckzzy/banner-aacf5405-e59e-418c-9d63-99bbbca5b92a.false?auto=avifwebp">
 
 ## 🦆 About Me
-Ciao! I'm Andrea Falbo aka Quack, a Computer Science student at the Bicocca University of Milan
+Ciao! I'm Andrea Falbo aka Quack, a Computer Science student at the Bicocca University of Milan. 
+
+## 🔍 Future 
+
+💪 I want to learn more about Reinforcement Learning <br>
+🫤 I want to specialize in Artificial Intelligence for Quantum Simulation and Complex Systems <br>
 
 ## 🔧 Languages and Tools
 <p align="left"> 
@@ -32,23 +37,17 @@ Ciao! I'm Andrea Falbo aka Quack, a Computer Science student at the Bicocca Univ
 
 ![LilQuacky's github stats](https://github-readme-stats.vercel.app/api?username=LilQuacky&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
-## 🌟 Featured Projects
+## 🌟 Projects
+
+I'm currently too busy with the last semester: 5 courses and 3 projects. I can't find the time to dedicate myself to anything else
 
 **Project 1:** [_Appunti-Universitari_](https://github.com/LilQuacky/Appunti-Universitari)<br><br>
 To be honest it's not a real project, but more of a collection of all my university notes. Since this is the repository I work on the most at the moment, it's worth mentioning.
 
-**Project 2:** [_DevAux_](https://github.com/LilQuacky/DevAux)<br><br>
-An auxiliary project to the original Mobile Device Programming project.
+**Project 2:** [DevMatch] <br><br>
+Course Project: Mobile Device Programming. It is currently top secret...
 
-**Project 3:** _DevMatch_<br><br>
-Top Secret ...
-
-## 🔭 I want to specialize in
-
-👨‍💻 Artificial Intelligence for Science and Tecnhology <br>
-⚛️ AI for Quantum Simulation and Complex Systems <br>
-
-## 🌐 Let's Connect
+## 🌐 Connect
 Feel free to reach out to me through any of these platforms:
 - **Email**<br> andreafalbo46@gmail.com<br><br>
 - **Institution Email**<br> a.falbo7@campus.unimib.it <br><br>
