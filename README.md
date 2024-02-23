@@ -16,11 +16,11 @@
 
 ## GitHub Profile Summary
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LilQuacky&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LilQuacky&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LilQuacky&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LilQuacky&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LilQuacky&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LilQuacky&theme=tokyonight&utcOffset=1)
 
 ## Coding and Listening to 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21u5wptxwa2zmemsv2q2ja4ia&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=2b0b3c&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21u5wptxwa2zmemsv2q2ja4ia&redirect=true)
