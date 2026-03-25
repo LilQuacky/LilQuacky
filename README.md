@@ -1,7 +1,7 @@
 
 # Andrea Falbo 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=2250&color=FFFFFF&width=435&lines=Master's+Degree+Student;Computer+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=200&color=F7F7F7&width=435&lines=Andrea+Falbo;Software+Engineer;Master's+Degree+in+Computer+Science;Always+striving+for+new+goals)](https://git.io/typing-svg)
 
 <a href="https://github.com/LilQuacky">
     <img src="https://github-stats-alpha.vercel.app/api?username=LilQuacky&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
