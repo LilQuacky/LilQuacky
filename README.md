@@ -9,8 +9,8 @@
 
 ## About Me
 
-* 🎓 Recent graduate with a **Bachelor's Degree** in Computer Science at [University of Milano-Bicocca](https://www.unimib.it/).
-* 📖 Currently pursuing a **Master's Degree** in Computer Science at [University of Milano-Bicocca](https://www.unimib.it/).
+* 🎓 Recent graduate with a **Master's Degree** in Computer Science at [University of Milano-Bicocca](https://www.unimib.it/).
+* 📖 Currently working as a **Software Engineer** at [Kirey Group](https://www.kireygroup.com/it).
 
 ## GitHub Profile Summary
 
